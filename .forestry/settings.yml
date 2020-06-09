@@ -31,8 +31,8 @@ sections:
   create: all
   match: "**/*"
   new_doc_ext: yaml
-upload_dir: https://res.cloudinary.com/dcwga9ws3/ihn
-public_path: ''
+upload_dir: http://res.cloudinary.com/dcwga9ws3/image/upload
+public_path: "/image/upload"
 front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename:"
