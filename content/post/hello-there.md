@@ -1,5 +1,6 @@
 +++
 authors = []
+blurb = "This is super cool right?"
 date = 2020-06-15T05:00:00Z
 excerpt = "Hello there from afar. Just testing this like I should."
 hero = ""
