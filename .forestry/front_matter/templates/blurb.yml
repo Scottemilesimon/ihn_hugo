@@ -1,4 +1,14 @@
 ---
 label: Blurb
 hide_body: true
-fields: []
+fields:
+- name: blurb
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: blurb
+  description: Blurb
