@@ -40,6 +40,16 @@ fields:
   type: tag_list
   default: []
   label: Authors
+- name: blurb
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Blurb
+  description: Blurb
 pages:
 - content/post/hello-there.md
 - content/post/test.md
