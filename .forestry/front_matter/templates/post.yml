@@ -52,4 +52,5 @@ fields:
   description: Blurb
 pages:
 - content/post/hello-there.md
+- content/post/just-a-little-testing.md
 - content/post/test.md
